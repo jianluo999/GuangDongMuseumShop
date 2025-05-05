@@ -302,13 +302,17 @@ GuangDongMuseumShop
 4. 将dist目录部署到Web服务器
    
 ### 关键页面
-![image](https://github.com/user-attachments/assets/24fa5791-a14b-459b-9ce4-eef2f7ba95b5)
+![image](https://github.com/user-attachments/assets/5bd603b3-714c-4900-a7a2-289235dc74b9)
 
-![image](https://github.com/user-attachments/assets/db972e8c-cfca-4c1a-b914-896b264555b9)
+![image](https://github.com/user-attachments/assets/6ab61069-d0c3-4c15-8115-c758b08d3d36)
 
-![image](https://github.com/user-attachments/assets/2ce79079-0ba5-4263-950d-7cc23b9a84ec)
+![image](https://github.com/user-attachments/assets/cf73dee3-f205-4f1f-90e9-f85d68c6b56c)
 
-![image](https://github.com/user-attachments/assets/53229bdb-021d-4255-b3e9-4023978456c0)
+![image](https://github.com/user-attachments/assets/71f0cf66-d917-45f1-a922-b27cb348f636)
+
+
+
+
 
 
 
