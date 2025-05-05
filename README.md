@@ -310,6 +310,17 @@ GuangDongMuseumShop
 
 ![image](https://github.com/user-attachments/assets/71f0cf66-d917-45f1-a922-b27cb348f636)
 
+### 补丁
+新品上架没有显示出来是在 
+ProductServiceImpl 中的 getNewProducts 方法中，设置了以下条件：
+1.商品必须是上架状态 (enabled = true)
+2.商品必须是最近30天内创建的
+3.没有满足这些条件的商品就不显示
+
+管理员页面登录不上是管理员密码初始值设置问题，重新创建数据库脚本即可，初始化密码忘了，自行解决。
+
+
+
 
 
 
